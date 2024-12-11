@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on nothing.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++.
 - 👯 I’m looking to collaborate on nothing yet.
 - 🤔 I’m looking for help with C++.
 - 💬 Ask me about nothing.
